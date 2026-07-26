@@ -4,6 +4,7 @@
   "type": "module",
   "description": "Agent memory as a capability — a dolt-server-backed KV store behind a `memory` door. Fully separate from Front Desk; the beads-memory replacement.",
   "engines": { "node": ">=23.6" },
+  "bin": { "agent-memory": "scripts/memory.ts" },
   "scripts": {
     "memory": "node scripts/memory.ts",
     "memoryd": "node scripts/memoryd.ts",
