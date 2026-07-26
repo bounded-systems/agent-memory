@@ -1,0 +1,1 @@
+{ "compilerOptions": { "target":"ES2023","module":"NodeNext","moduleResolution":"nodenext","allowImportingTsExtensions":true,"noEmit":true,"strict":true,"verbatimModuleSyntax":true,"skipLibCheck":true,"types":["node"] }, "include":["src","scripts"] }

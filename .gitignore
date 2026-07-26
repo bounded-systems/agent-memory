@@ -1,0 +1,4 @@
+node_modules/
+.venv/
+# dolt DB versioned by dolt itself
+mirror/
