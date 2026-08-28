@@ -11,11 +11,11 @@
     "test": "node --test test/*.test.ts"
   },
   "dependencies": {
-    "mysql2": "^3.11.0",
+    "mysql2": "^3.24.2",
     "zod": "^4.4.3",
     "@bounded-systems/verbspec": "npm:@jsr/bounded-systems__verbspec@^0.4.0",
     "@bounded-systems/verbspec-mcp": "npm:@jsr/bounded-systems__verbspec-mcp@^0.1.0",
     "@bounded-systems/guest-room": "npm:@jsr/bounded-systems__guest-room@^0.5.0"
   },
-  "devDependencies": { "@types/node": "^26.1.1" }
+  "devDependencies": { "@types/node": "^26.3.0" }
 }
